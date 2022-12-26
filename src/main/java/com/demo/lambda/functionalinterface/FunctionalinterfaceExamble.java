@@ -1,4 +1,4 @@
-package functionalinterface;
+package com.demo.lambda.functionalinterface;
 
 import java.util.function.Function;
 

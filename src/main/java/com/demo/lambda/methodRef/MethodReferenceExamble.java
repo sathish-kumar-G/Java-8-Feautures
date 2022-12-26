@@ -1,4 +1,4 @@
-package methodRef;
+package com.demo.lambda.methodRef;
 
 
 import java.util.ArrayList;

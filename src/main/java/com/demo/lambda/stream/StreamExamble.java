@@ -1,4 +1,4 @@
-package stream;
+package com.demo.lambda.stream;
 
 import java.lang.reflect.Array;
 import java.util.*;

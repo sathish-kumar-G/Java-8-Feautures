@@ -1,4 +1,4 @@
-package map;
+package com.demo.lambda.map;
 
 import java.util.*;
 
