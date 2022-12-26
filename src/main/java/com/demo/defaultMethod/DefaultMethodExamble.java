@@ -1,4 +1,4 @@
-package com.demo.lambda.defaultMethod;
+package com.demo.defaultMethod;
 
 //Interface have Abstract and default method
 interface Vechile{
